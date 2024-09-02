@@ -1,4 +1,4 @@
-# AI-CLUB-WEBSITE => https://data-science-club.netlify.app/
+# AI-CLUB-WEBSITE
 
 Overview :
 
